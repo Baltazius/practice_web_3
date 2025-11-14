@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+.container {
+    width: 80vw;
+    margin: 0 auto;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+}
+
+li {
+    margin-left: 5%;
+}
+
+section {
+    
+}
