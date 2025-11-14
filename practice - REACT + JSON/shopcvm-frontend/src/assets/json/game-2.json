@@ -1,3 +1,4 @@
 {
-    "ERROR": "CAN'T MOVE!"
+    "target_pos": 0,
+    "color": "purple"
 }
